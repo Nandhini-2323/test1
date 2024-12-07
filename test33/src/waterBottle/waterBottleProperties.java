@@ -14,7 +14,7 @@ public class waterBottleProperties {
 	System.out.println("The capacity of water bottle is " +capacity);
 	System.out.println("The colour of the bottle is " + colour);
 	System.out.println("The lenght of the bottle is" + lenght);
-	System.out.println("The radius of the water bottle is " + radius);
+	System.out.println("The radius of the water bottle2 is " + radius);
 
 }
 }
